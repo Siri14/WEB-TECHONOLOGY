@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>CONTACT</title>
+</head>
+<body>
+<p>Central Administrative Office<br/>
+Registrar<br/>
+ 0891-2840501<br/>
+ registrar@gitam.edu<br/>
+Address<br/>
+Rudraram, Patancheru mandal<br/>
+Hyderabad-502329<br/>
+Telangana, INDIA.<br/>
+ 08455-221200 / 1 / 2 / 3 / 4 / 5<br/>
+</p><br/>
+<form>
+NAME:
+<input type="text" name=" ">
+<br/>
+PASSWORD:
+<input type="text" password=" ">
+<br/>
+<input type=submit>
+</form>
+</body>
+</html>
